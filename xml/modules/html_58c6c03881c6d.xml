@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<htmlwidget>
+	<configuration><option id="showScrollBars"><value><![CDATA[false]]></value></option><option id="useIFrame"><value><![CDATA[false]]></value></option></configuration>
+	<data><![CDATA[<html>	<head>		<!-- paste style and script here -->	</head>	<body style="background: transparent; border: none;"><iframe width="980" height="551" src="https://www.youtube.com/embed/L9ov_1DGadI?rel=0&amp&autoplay=1;controls=1&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>	</body></html>]]></data>
+</htmlwidget>

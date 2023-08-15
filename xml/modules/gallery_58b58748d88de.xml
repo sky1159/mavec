@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<simpleGalleryModule>
+
+	<configuration>
+		<option id="previewPropertyID" editable="false">
+			<value>1</value>
+		</option>
+		<option id="thumbnailPropertyID" editable="false">
+			<value>1</value>
+		</option>
+		<option id="thumbnailWidth" editable="false">
+			<value>146</value>
+		</option>
+		<option id="thumbnailHeight" editable="false">
+			<value>100</value>
+		</option>
+		<option id="maxRootItems">
+			<value>0</value>
+		</option>
+	</configuration>
+	
+	<structure>
+		<properties>
+			<property id="1" type="image" keyName="preview">
+				<name><![CDATA[Preview]]></name>
+			</property>
+            <property id="2" type="link" keyName="clickAction">
+                <name><![CDATA[Click action]]></name>
+            </property>
+		</properties>
+		<template id="0" order="0">
+			<properties>
+				<item propertyType="1"/>
+                <item propertyType="2"/>
+			</properties>
+		</template>
+	</structure>
+
+	<data><item id="1" order="1"><properties><item propertyType="1"><![CDATA[images/IMG_9023.jpg]]></item><item propertyType="2"><![CDATA[]]></item></properties></item><item id="2" order="2"><properties><item propertyType="1"><![CDATA[images/IMG_8749.JPG]]></item><item propertyType="2"><![CDATA[]]></item></properties></item><item id="3" order="3"><properties><item propertyType="1"><![CDATA[images/IMG_8743.jpg]]></item><item propertyType="2"><![CDATA[]]></item></properties></item><item id="4" order="4"><properties><item propertyType="1"><![CDATA[images/IMG_8532.jpg]]></item><item propertyType="2"><![CDATA[]]></item></properties></item><item id="5" order="5"><properties><item propertyType="1"><![CDATA[images/IMG_8423.jpg]]></item><item propertyType="2"><![CDATA[]]></item></properties></item><item id="6" order="6"><properties><item propertyType="1"><![CDATA[images/IMG_8418.jpg]]></item><item propertyType="2"><![CDATA[]]></item></properties></item><item id="7" order="7"><properties><item propertyType="1"><![CDATA[images/IMG_8496.jpg]]></item><item propertyType="2"><![CDATA[]]></item></properties></item><item id="8" order="8"><properties><item propertyType="1"><![CDATA[images/IMG_8403.jpg]]></item><item propertyType="2"><![CDATA[]]></item></properties></item><item id="9" order="9"><properties><item propertyType="1"><![CDATA[images/IMG_8514.jpg]]></item><item propertyType="2"><![CDATA[]]></item></properties></item><item id="10" order="10"><properties><item propertyType="1"><![CDATA[images/IMG_8489.jpg]]></item><item propertyType="2"><![CDATA[]]></item></properties></item><item id="11" order="11"><properties><item propertyType="1"><![CDATA[images/IMG_8736.jpg]]></item><item propertyType="2"><![CDATA[]]></item></properties></item></data>
+
+</simpleGalleryModule>
